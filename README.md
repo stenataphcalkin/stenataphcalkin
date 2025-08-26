@@ -24,6 +24,8 @@ I'm excited to share my projects as I grow and learn. Thanks for stopping by!
 
 **Worth upto 833 points in Scrabble, including double letters, triple words and bingo.*
 
+*Profile picture by Makowka on Picrew.*
+
 <!--
 **stenataphcalkin/stenataphcalkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
